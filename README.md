@@ -1,6 +1,6 @@
 # Nombre: Daniel Romero Garcia
 # Clan: Hopper
-# Correo: romero.g.danie.@gmail.com          
+# Correo: romero.g.daniel.@gmail.com          
 # Documento de Identidad: 1007373290
 
 
